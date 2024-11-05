@@ -1,6 +1,6 @@
 👋 Olá! Sou Felipe Yukio Saito, estudante de Análise e Desenvolvimento de Sistemas na Unifecaf, atualmente no 3º período.
 
-💻 Apaixonado por desenvolvimento Front-end com HTML, CSS e JavaScript.
+💻 Gosto por desenvolvimento Front-end.
 
 🤝 Adoro trabalhar em equipe, buscando sempre extrair o melhor de todos.
 
