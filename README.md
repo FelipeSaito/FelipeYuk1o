@@ -1,4 +1,4 @@
-👋 Olá! Sou Felipe Yukio Saito, estudante de Análise e Desenvolvimento de Sistemas na Unifecaf, atualmente no 3º período.
+👋 Olá! Sou Felipe Yukio Saito, estudante de Análise e Desenvolvimento de Sistemas na Unifecaf, atualmente no 4º período.
 
 💻 Gosto por desenvolvimento Front-end.
 
